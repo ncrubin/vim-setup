@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/nick/opt/pyQAOA/pyqaoa'
+let g:netrw_dirhist_2='/home/nick/opt/pyQAOA'
+let g:netrw_dirhist_3='/home/nick/opt/pyQuil/pyquil'
+let g:netrw_dirhist_4='/home/nick/opt/pyQuil'
